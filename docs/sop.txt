@@ -1,0 +1,10 @@
+SOP-101: Machine Startup Procedure (Packaging Line A)
+
+1. Check that the emergency stop button is released.
+2. Verify the air pressure gauge reads between 5 and 7 bar.
+3. Turn the main power switch to ON.
+4. Wait 30 seconds for the control panel to finish booting.
+5. Press the green START button to begin the warm-up cycle.
+6. Warm-up takes 10 minutes. Do not load material until the amber light turns off.
+
+If the air pressure is below 5 bar, do not start the machine. Contact the maintenance supervisor, Ravi Menon.

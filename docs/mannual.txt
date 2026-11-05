@@ -1,0 +1,86 @@
+EQUIPMENT USER MANUAL
+Equipment Name: Industrial Smart Monitoring System
+Model Number: ISMS-2026
+Manufacturer: TechNova Industries
+Version: 1.0
+
+1. Introduction
+The Industrial Smart Monitoring System is designed to monitor equipment performance, temperature, pressure, and operational status. It provides real-time monitoring and helps operators maintain safe and efficient working conditions.
+
+2. Technical Specifications
+- Operating Voltage: 220V AC
+- Power Consumption: 500 Watts
+- Operating Temperature: 0°C to 50°C
+- Display: Digital LCD Display
+- Connectivity: Wi-Fi and Ethernet
+- Weight: 15 kg
+- Dimensions: 450 x 300 x 250 mm
+
+3. Equipment Components
+1. Main Control Unit
+2. Digital Display Panel
+3. Temperature Sensor
+4. Pressure Sensor
+5. Power Supply Unit
+6. Emergency Stop Button
+7. Cooling Fan
+8. Network Connectivity Module
+
+
+4. Installation Instructions
+1. Place the equipment on a stable and flat surface.
+2. Ensure adequate ventilation around the unit.
+3. Connect the power cable to a suitable power source.
+4. Connect the required sensors to their respective ports.
+5. Switch on the main power supply.
+6. Wait for the system initialization process to complete.
+
+5. Operating Instructions
+1. Press the Power button to start the equipment.
+2. Wait until the LCD displays the welcome screen.
+3. Select the desired operating mode.
+4. Monitor temperature and pressure readings.
+5. Check the system status regularly.
+6. Press the Stop button to terminate operations.
+7. Switch off the main power supply after use.
+6. Safety Precautions
+- Do not operate the equipment with damaged cables.
+- Keep liquids away from electrical components.
+- Do not exceed the recommended operating temperature.
+- Always wear appropriate protective equipment.
+- Do not attempt unauthorized repairs.
+- Disconnect the power supply before maintenance.
+- Use the emergency stop button during critical situations.
+
+7. Maintenance Guidelines
+- Clean the external surface regularly.
+- Inspect electrical connections weekly.
+- Check sensor accuracy monthly.
+- Ensure the cooling fan is functioning properly.
+- Replace damaged components immediately.
+- Maintain a record of all maintenance activities.
+
+8. Troubleshooting
+Problem	Possible Cause	Solution
+Equipment not starting	Power failure	Check power supply
+Display not working	Loose connection	Check display cable
+High temperature	Cooling fan failure	Inspect cooling fan
+Incorrect readings	Sensor malfunction	Calibrate sensor
+Network disconnected	Wi-Fi failure	Restart network module
+
+9. Warranty Information
+The equipment includes a standard 12-month limited warranty from the date of purchase. The warranty covers manufacturing defects and hardware failures under normal operating conditions.
+
+10. Contact Information
+Company: TechNova Industries
+Email: support@technova.example
+Website: www.technova.example
+Technical Support: +91-00000-00000
+
+11. Document Information
+- Document ID: TN-ISMS-001
+- Manual Version: 1.0
+- Publication Year: 2026
+- Document Type: Equipment User Manual
+- Classification: Dummy Documentation for Software Testing
+End of Manual
